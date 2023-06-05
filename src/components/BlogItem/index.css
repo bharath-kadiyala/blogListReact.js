@@ -1,0 +1,28 @@
+.blogItem-con {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -25px;
+  border-bottom: 1px solid #9aa5b1;
+  margin-bottom: 5px;
+}
+
+.blogItem-text-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blogItem-head {
+  font-size: 17px;
+  color: #12022f;
+}
+
+.blogItem-date {
+  font-size: 16px;
+  color: #9aa5b1;
+}
+
+.blogItem-pera {
+  font-size: 14px;
+  color: #9aa5b1;
+}

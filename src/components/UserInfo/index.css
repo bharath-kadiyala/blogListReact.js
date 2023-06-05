@@ -1,0 +1,24 @@
+.userInfo-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.userInfo-logo {
+  height: 130px;
+  width: 130px;
+}
+
+.userInfo-name {
+  font-size: 26px;
+  font-weight: 600;
+  color: #12022f;
+  margin-bottom: -0px;
+}
+
+.userInfo-pera {
+  font-size: 16px;
+  color: #9aa5b1;
+}

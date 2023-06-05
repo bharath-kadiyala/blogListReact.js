@@ -1,0 +1,11 @@
+.blogList-con {
+  margin-top: 15px;
+}
+
+.blogList-unOrder-con {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-right: 20px;
+}
